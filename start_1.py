@@ -16,4 +16,6 @@
     # Exception: Classe de base pour les exceptions.
     # object: Toutes les classes en Python héritent implicitement de la classe object.
 
+
     # Il en existe d'autres mais celles-ci sont les plus utilisées
+
